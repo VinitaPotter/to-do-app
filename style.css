@@ -1,0 +1,39 @@
+body {
+    font-family: 'Handlee', cursive;
+    color: #494949;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+#userinput, #enter {
+    font-weight: 500;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+#userinput {
+    font-family: 'Handlee', cursive;
+    width: 35%;
+    color: indigo;
+    margin-right: 15px;
+}
+
+#enter {
+    font-family: 'Montserrat', sans-serif;
+    font-variant-caps: all-petite-caps;
+    background-color: rgba(0, 0, 0, 0);
+    width: 20%;
+    color: black;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px black;
+}
+
+#enter:hover {
+    box-shadow: inset 2px 2px 2px black;
+}
+
+h2 {
+    text-align: center;
+}
+
+
